@@ -1,0 +1,15 @@
+D:\開發程式\SimulatedReader\bin\Debug\SimulatedReader.exe.config
+D:\開發程式\SimulatedReader\bin\Debug\SimulatedReader.exe
+D:\開發程式\SimulatedReader\bin\Debug\SimulatedReader.pdb
+D:\開發程式\SimulatedReader\obj\Debug\SimulatedReader.csproj.AssemblyReference.cache
+D:\開發程式\SimulatedReader\obj\Debug\MainWindow.g.cs
+D:\開發程式\SimulatedReader\obj\Debug\App.g.cs
+D:\開發程式\SimulatedReader\obj\Debug\SimulatedReader_MarkupCompile.cache
+D:\開發程式\SimulatedReader\obj\Debug\SimulatedReader_MarkupCompile.lref
+D:\開發程式\SimulatedReader\obj\Debug\MainWindow.baml
+D:\開發程式\SimulatedReader\obj\Debug\SimulatedReader.g.resources
+D:\開發程式\SimulatedReader\obj\Debug\SimulatedReader.Properties.Resources.resources
+D:\開發程式\SimulatedReader\obj\Debug\SimulatedReader.csproj.GenerateResource.cache
+D:\開發程式\SimulatedReader\obj\Debug\SimulatedReader.csproj.CoreCompileInputs.cache
+D:\開發程式\SimulatedReader\obj\Debug\SimulatedReader.exe
+D:\開發程式\SimulatedReader\obj\Debug\SimulatedReader.pdb
