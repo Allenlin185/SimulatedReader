@@ -13,3 +13,6 @@ D:\開發程式\SimulatedReader\obj\Debug\SimulatedReader.csproj.GenerateResourc
 D:\開發程式\SimulatedReader\obj\Debug\SimulatedReader.csproj.CoreCompileInputs.cache
 D:\開發程式\SimulatedReader\obj\Debug\SimulatedReader.exe
 D:\開發程式\SimulatedReader\obj\Debug\SimulatedReader.pdb
+D:\開發程式\SimulatedReader\bin\Debug\ProgramMethod.dll
+D:\開發程式\SimulatedReader\bin\Debug\Newtonsoft.Json.dll
+D:\開發程式\SimulatedReader\obj\Debug\SimulatedReader.csproj.CopyComplete
