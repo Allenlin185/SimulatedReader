@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SimulatedReader"
         mc:Ignorable="d"
-        Title="基恩斯讀頭模擬器" Height="450" Width="400">
+        Title="基恩斯讀頭模擬器" Height="450" Width="450" ResizeMode="NoResize">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="50"/>
@@ -35,7 +35,7 @@
                 <TextBox x:Name="Port" FontSize="16" Padding="10" Margin="5,0" VerticalAlignment="Center" />
             </Grid>
             <Grid Grid.Column="3">
-                <Button x:Name="Start" Content="啟用" Margin="5" Background="LightGreen" Foreground="White" Click="Start_Click"/>
+                <Button x:Name="Start" Content="啟用" Margin="5" Background="#FF72B946" Foreground="White" Click="Start_Click"/>
             </Grid>
         </Grid>
         <Grid Grid.Row="2">
